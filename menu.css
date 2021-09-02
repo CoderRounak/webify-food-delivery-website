@@ -1,0 +1,25 @@
+.nav-item
+  {
+    font-family: "Acme";
+  }
+
+  .nav-item :hover
+  {
+    font-size:120%;
+    
+  }
+
+  .card .card-body .card-text.whitexx
+  {
+    color: white;
+    font-family: "Ubuntu";
+  }
+  .card .card-body .card-title
+  {
+    font-family: "Zilla Slab Highlight";
+  }
+
+  .dish-heading
+  {
+    font-family: "Acme";
+  }
